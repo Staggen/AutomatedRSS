@@ -1,0 +1,130 @@
+C:\Users\Nico\source\repos\AutomatedRSS-oskar-beta\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\AutomatedRSS-oskar-beta\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.Form1.resources
+C:\Users\Nico\source\repos\AutomatedRSS-oskar-beta\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.Properties.Resources.resources
+C:\Users\Nico\source\repos\AutomatedRSS-oskar-beta\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.GenerateResource.cache
+C:\Users\Nico\source\repos\AutomatedRSS-oskar-beta\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\AutomatedRSS-oskar-beta\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.exe.config
+C:\Users\Nico\source\repos\AutomatedRSS-oskar-beta\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.exe
+C:\Users\Nico\source\repos\AutomatedRSS-oskar-beta\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.pdb
+C:\Users\Nico\source\repos\AutomatedRSS-oskar-beta\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.exe
+C:\Users\Nico\source\repos\AutomatedRSS-oskar-beta\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.pdb
+C:\Users\Orre\Downloads\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.exe.config
+C:\Users\Orre\Downloads\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.exe
+C:\Users\Orre\Downloads\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.pdb
+C:\Users\Orre\Downloads\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csprojAssemblyReference.cache
+C:\Users\Orre\Downloads\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.Form1.resources
+C:\Users\Orre\Downloads\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.Properties.Resources.resources
+C:\Users\Orre\Downloads\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.GenerateResource.cache
+C:\Users\Orre\Downloads\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.CoreCompileInputs.cache
+C:\Users\Orre\Downloads\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.exe
+C:\Users\Orre\Downloads\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.pdb
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_FREQ\OurPodcastApp\bin\Debug\OurPodcastApp.exe.config
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_FREQ\OurPodcastApp\bin\Debug\OurPodcastApp.exe
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_FREQ\OurPodcastApp\bin\Debug\OurPodcastApp.pdb
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_FREQ\OurPodcastApp\obj\Debug\OurPodcastApp.csprojAssemblyReference.cache
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_FREQ\OurPodcastApp\obj\Debug\OurPodcastApp.Form1.resources
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_FREQ\OurPodcastApp\obj\Debug\OurPodcastApp.Properties.Resources.resources
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_FREQ\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.GenerateResource.cache
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_FREQ\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.CoreCompileInputs.cache
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_FREQ\OurPodcastApp\obj\Debug\OurPodcastApp.exe
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_FREQ\OurPodcastApp\obj\Debug\OurPodcastApp.pdb
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_2.0\OurPodcastApp\bin\Debug\OurPodcastApp.exe.config
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_2.0\OurPodcastApp\bin\Debug\OurPodcastApp.exe
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_2.0\OurPodcastApp\bin\Debug\OurPodcastApp.pdb
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_2.0\OurPodcastApp\obj\Debug\OurPodcastApp.csprojAssemblyReference.cache
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_2.0\OurPodcastApp\obj\Debug\OurPodcastApp.Form1.resources
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_2.0\OurPodcastApp\obj\Debug\OurPodcastApp.Properties.Resources.resources
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_2.0\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.GenerateResource.cache
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_2.0\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.CoreCompileInputs.cache
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_2.0\OurPodcastApp\obj\Debug\OurPodcastApp.exe
+C:\Users\Orre\Downloads\OurPodcastApp_PRE_ALPHA_2.0\OurPodcastApp\obj\Debug\OurPodcastApp.pdb
+C:\Users\Nico\source\repos\OurPodcastApp_PRE_ALPHA_Thursday2130\OurPodcastApp\bin\Debug\OurPodcastApp.exe.config
+C:\Users\Nico\source\repos\OurPodcastApp_PRE_ALPHA_Thursday2130\OurPodcastApp\bin\Debug\OurPodcastApp.exe
+C:\Users\Nico\source\repos\OurPodcastApp_PRE_ALPHA_Thursday2130\OurPodcastApp\bin\Debug\OurPodcastApp.pdb
+C:\Users\Nico\source\repos\OurPodcastApp_PRE_ALPHA_Thursday2130\OurPodcastApp\obj\Debug\OurPodcastApp.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\OurPodcastApp_PRE_ALPHA_Thursday2130\OurPodcastApp\obj\Debug\OurPodcastApp.Form1.resources
+C:\Users\Nico\source\repos\OurPodcastApp_PRE_ALPHA_Thursday2130\OurPodcastApp\obj\Debug\OurPodcastApp.Properties.Resources.resources
+C:\Users\Nico\source\repos\OurPodcastApp_PRE_ALPHA_Thursday2130\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.GenerateResource.cache
+C:\Users\Nico\source\repos\OurPodcastApp_PRE_ALPHA_Thursday2130\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\OurPodcastApp_PRE_ALPHA_Thursday2130\OurPodcastApp\obj\Debug\OurPodcastApp.exe
+C:\Users\Nico\source\repos\OurPodcastApp_PRE_ALPHA_Thursday2130\OurPodcastApp\obj\Debug\OurPodcastApp.pdb
+C:\Users\Nico\source\repos\OurPodcastApp_post-genre\OurPodcastApp\bin\Debug\OurPodcastApp.exe.config
+C:\Users\Nico\source\repos\OurPodcastApp_post-genre\OurPodcastApp\bin\Debug\OurPodcastApp.exe
+C:\Users\Nico\source\repos\OurPodcastApp_post-genre\OurPodcastApp\bin\Debug\OurPodcastApp.pdb
+C:\Users\Nico\source\repos\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.Form1.resources
+C:\Users\Nico\source\repos\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.Properties.Resources.resources
+C:\Users\Nico\source\repos\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.GenerateResource.cache
+C:\Users\Nico\source\repos\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.exe
+C:\Users\Nico\source\repos\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.pdb
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre\OurPodcastApp\bin\Debug\OurPodcastApp.exe.config
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre\OurPodcastApp\bin\Debug\OurPodcastApp.exe
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre\OurPodcastApp\bin\Debug\OurPodcastApp.pdb
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.csprojAssemblyReference.cache
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.Form1.resources
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.Properties.Resources.resources
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.GenerateResource.cache
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.CoreCompileInputs.cache
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.exe
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.pdb
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre_Pre-storage\OurPodcastApp_post-genre\OurPodcastApp\bin\Debug\OurPodcastApp.exe.config
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre_Pre-storage\OurPodcastApp_post-genre\OurPodcastApp\bin\Debug\OurPodcastApp.exe
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre_Pre-storage\OurPodcastApp_post-genre\OurPodcastApp\bin\Debug\OurPodcastApp.pdb
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre_Pre-storage\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.csprojAssemblyReference.cache
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre_Pre-storage\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.Form1.resources
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre_Pre-storage\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.Properties.Resources.resources
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre_Pre-storage\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.GenerateResource.cache
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre_Pre-storage\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.CoreCompileInputs.cache
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre_Pre-storage\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.exe
+C:\Users\Orre\Downloads\OurPodcastApp_post-genre_Pre-storage\OurPodcastApp_post-genre\OurPodcastApp\obj\Debug\OurPodcastApp.pdb
+C:\Users\elias\Documents\OOP C#\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.exe.config
+C:\Users\elias\Documents\OOP C#\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.exe
+C:\Users\elias\Documents\OOP C#\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.pdb
+C:\Users\elias\Documents\OOP C#\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csprojAssemblyReference.cache
+C:\Users\elias\Documents\OOP C#\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.Form1.resources
+C:\Users\elias\Documents\OOP C#\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.Properties.Resources.resources
+C:\Users\elias\Documents\OOP C#\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.GenerateResource.cache
+C:\Users\elias\Documents\OOP C#\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\OOP C#\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.exe
+C:\Users\elias\Documents\OOP C#\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.pdb
+C:\Users\Orre\Downloads\OurPodcastApp_v0.7-viable\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csprojAssemblyReference.cache
+C:\Users\Orre\Downloads\OurPodcastApp_v0.7-viable\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.Form1.resources
+C:\Users\Orre\Downloads\OurPodcastApp_v0.7-viable\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.Properties.Resources.resources
+C:\Users\Orre\Downloads\OurPodcastApp_v0.7-viable\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.GenerateResource.cache
+C:\Users\Orre\Downloads\OurPodcastApp_v0.7-viable\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.CoreCompileInputs.cache
+C:\Users\Orre\Downloads\OurPodcastApp_v0.7-viable\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.exe
+C:\Users\Orre\Downloads\OurPodcastApp_v0.7-viable\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.pdb
+C:\Users\Orre\Downloads\OurPodcastApp_v0.7-viable\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.exe.config
+C:\Users\Orre\Downloads\OurPodcastApp_v0.7-viable\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.exe
+C:\Users\Orre\Downloads\OurPodcastApp_v0.7-viable\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.pdb
+C:\Users\elias\Downloads\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.exe.config
+C:\Users\elias\Downloads\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.exe
+C:\Users\elias\Downloads\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.pdb
+C:\Users\elias\Downloads\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csprojAssemblyReference.cache
+C:\Users\elias\Downloads\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.Form1.resources
+C:\Users\elias\Downloads\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.Properties.Resources.resources
+C:\Users\elias\Downloads\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.GenerateResource.cache
+C:\Users\elias\Downloads\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.CoreCompileInputs.cache
+C:\Users\elias\Downloads\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.exe
+C:\Users\elias\Downloads\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.pdb
+C:\Users\Nico\source\repos\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.exe.config
+C:\Users\Nico\source\repos\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.exe
+C:\Users\Nico\source\repos\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.pdb
+C:\Users\Nico\source\repos\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.Form1.resources
+C:\Users\Nico\source\repos\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.Properties.Resources.resources
+C:\Users\Nico\source\repos\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.GenerateResource.cache
+C:\Users\Nico\source\repos\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.exe
+C:\Users\Nico\source\repos\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.pdb
+D:\Storage\Visual Studio Source\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.exe.config
+D:\Storage\Visual Studio Source\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.exe
+D:\Storage\Visual Studio Source\OurPodcastApp\OurPodcastApp\bin\Debug\OurPodcastApp.pdb
+D:\Storage\Visual Studio Source\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csprojAssemblyReference.cache
+D:\Storage\Visual Studio Source\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.Form1.resources
+D:\Storage\Visual Studio Source\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.Properties.Resources.resources
+D:\Storage\Visual Studio Source\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.GenerateResource.cache
+D:\Storage\Visual Studio Source\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.csproj.CoreCompileInputs.cache
+D:\Storage\Visual Studio Source\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.exe
+D:\Storage\Visual Studio Source\OurPodcastApp\OurPodcastApp\obj\Debug\OurPodcastApp.pdb
